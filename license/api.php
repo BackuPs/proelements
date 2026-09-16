@@ -125,14 +125,17 @@ class API {
 	         'settings-woocommerce-pages',
 	         'settings-woocommerce-notices',
 	         'dynamic-tags-wc',
-			'atomic-custom-attributes',
-			'theme-builder',
-			'form-submissions',
-			'akismet',
-			'activity-log',
-			'cf7db',
-			'transitions',
-			'size-variable'
+			 'atomic-custom-attributes',
+			 'theme-builder',
+			 'form-submissions',
+			 'akismet',
+			 'activity-log',
+			 'cf7db',
+			 'transitions',
+			 'size-variable',
+			 'notes',
+			 'atomic-custom-css', 
+			 'atomic-loop'
 		];
 		return $license_data;
 	}
